@@ -1,0 +1,4 @@
+E:\Study\Winter 2015\Emerging Technologies\Visual Workspace\Assignment2_Mobile_Portfolio\Assignment2_Mobile_Portfolio\bin\Assignment2_Mobile_Portfolio.dll
+E:\Study\Winter 2015\Emerging Technologies\Visual Workspace\Assignment2_Mobile_Portfolio\Assignment2_Mobile_Portfolio\bin\Assignment2_Mobile_Portfolio.pdb
+E:\Study\Winter 2015\Emerging Technologies\Visual Workspace\Assignment2_Mobile_Portfolio\Assignment2_Mobile_Portfolio\obj\Debug\Assignment2_Mobile_Portfolio.dll
+E:\Study\Winter 2015\Emerging Technologies\Visual Workspace\Assignment2_Mobile_Portfolio\Assignment2_Mobile_Portfolio\obj\Debug\Assignment2_Mobile_Portfolio.pdb
